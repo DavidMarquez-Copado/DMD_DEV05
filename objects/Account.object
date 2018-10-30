@@ -225,6 +225,21 @@
                     <default>false</default>
                     <label>Right_1</label>
                 </value>
+                <value>
+                    <fullName>NEW_VALUE_1</fullName>
+                    <default>false</default>
+                    <label>NEW_VALUE_1</label>
+                </value>
+                <value>
+                    <fullName>NEW_VALUE_2</fullName>
+                    <default>false</default>
+                    <label>NEW_VALUE_2</label>
+                </value>
+                <value>
+                    <fullName>NEW_VALUE_3</fullName>
+                    <default>false</default>
+                    <label>NEW_VALUE_3</label>
+                </value>
             </valueSetDefinition>
         </valueSet>
     </fields>
@@ -1314,6 +1329,17 @@
         <active>true</active>
         <label>DMD_RecordType_2</label>
         <picklistValues>
+            <picklist>DMD_PicklistRetrieveOnly_2__c</picklist>
+            <values>
+                <fullName>Left_3</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Right_1</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
             <picklist>AccountSource</picklist>
             <values>
                 <fullName>Other</fullName>
@@ -1390,13 +1416,6 @@
             </values>
             <values>
                 <fullName>Medium</fullName>
-                <default>false</default>
-            </values>
-        </picklistValues>
-        <picklistValues>
-            <picklist>DMD_PicklistRetrieveOnly_2__c</picklist>
-            <values>
-                <fullName>Right_1</fullName>
                 <default>false</default>
             </values>
         </picklistValues>
