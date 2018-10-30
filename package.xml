@@ -13,13 +13,11 @@
         <members>FileUploadAndDownloadSecurity</members>
         <members>Forecasting</members>
         <members>Ideas</members>
-        <members>IoT</members>
         <members>Knowledge</members>
         <members>LiveAgent</members>
         <members>Macro</members>
         <members>Mobile</members>
         <members>Name</members>
-        <members>OmniChannel</members>
         <members>Opportunity</members>
         <members>Order</members>
         <members>OrgPreference</members>
@@ -30,5 +28,5 @@
         <members>Security</members>
         <name>Settings</name>
     </types>
-    <version>44.0</version>
+    <version>43.0</version>
 </Package>
