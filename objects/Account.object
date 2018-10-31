@@ -240,6 +240,11 @@
                     <default>false</default>
                     <label>NEW_VALUE_3</label>
                 </value>
+                <value>
+                    <fullName>NEW_VALUE_4</fullName>
+                    <default>false</default>
+                    <label>NEW_VALUE_4</label>
+                </value>
             </valueSetDefinition>
         </valueSet>
     </fields>
@@ -1331,7 +1336,7 @@
         <picklistValues>
             <picklist>DMD_PicklistRetrieveOnly_2__c</picklist>
             <values>
-                <fullName>Left_3</fullName>
+                <fullName>Left_1</fullName>
                 <default>false</default>
             </values>
             <values>
