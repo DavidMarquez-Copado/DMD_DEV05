@@ -140,6 +140,70 @@
         </valueSet>
     </fields>
     <fields>
+        <fullName>DMD_PicklistRetrieveOnly_2__c</fullName>
+        <externalId>false</externalId>
+        <label>DMD_PicklistRetrieveOnly_2</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Picklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetDefinition>
+                <sorted>false</sorted>
+                <value>
+                    <fullName>Left_1</fullName>
+                    <default>false</default>
+                    <label>Left_1</label>
+                </value>
+                <value>
+                    <fullName>Left_2</fullName>
+                    <default>false</default>
+                    <label>Left_2</label>
+                </value>
+                <value>
+                    <fullName>Left_3</fullName>
+                    <default>false</default>
+                    <label>Left_3</label>
+                </value>
+                <value>
+                    <fullName>Left_4</fullName>
+                    <default>false</default>
+                    <label>Left_4</label>
+                </value>
+                <value>
+                    <fullName>Right_1</fullName>
+                    <default>false</default>
+                    <label>Right_1</label>
+                </value>
+                <value>
+                    <fullName>NEW_VALUE_1</fullName>
+                    <default>false</default>
+                    <label>NEW_VALUE_1</label>
+                </value>
+                <value>
+                    <fullName>NEW_VALUE_2</fullName>
+                    <default>false</default>
+                    <label>NEW_VALUE_2</label>
+                </value>
+                <value>
+                    <fullName>NEW_VALUE_3</fullName>
+                    <default>false</default>
+                    <label>NEW_VALUE_3</label>
+                </value>
+                <value>
+                    <fullName>NEW_VALUE_4</fullName>
+                    <default>false</default>
+                    <label>NEW_VALUE_4</label>
+                </value>
+                <value>
+                    <fullName>NEW_VALUE_5</fullName>
+                    <default>false</default>
+                    <label>NEW_VALUE_5</label>
+                </value>
+            </valueSetDefinition>
+        </valueSet>
+    </fields>
+    <fields>
         <fullName>DandbCompanyId</fullName>
         <trackFeedHistory>false</trackFeedHistory>
         <type>Lookup</type>
@@ -372,6 +436,22 @@
         <filterScope>Everything</filterScope>
         <label>Platinum and Gold SLA Customers</label>
     </listViews>
+    <recordTypes>
+        <fullName>DMD_RecordType_2</fullName>
+        <active>true</active>
+        <label>DMD_RecordType_2</label>
+        <picklistValues>
+            <picklist>DMD_PicklistRetrieveOnly_2__c</picklist>
+            <values>
+                <fullName>Left_4</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Right_1</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+    </recordTypes>
     <searchLayouts>
         <customTabListAdditionalFields>ACCOUNT.NAME</customTabListAdditionalFields>
         <customTabListAdditionalFields>ACCOUNT.ADDRESS1_CITY</customTabListAdditionalFields>
