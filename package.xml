@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>DMD_CustomObject_2__c.DMD_Field_1__c</members>
-        <members>DMD_CustomObject_2__c.DMD_Field_2__c</members>
-        <members>DMD_CustomObject_2__c.DMD_Field_3__c</members>
-        <name>CustomField</name>
-    </types>
-    <types>
-        <members>DMD_CustomObject_2__c</members>
-        <name>CustomObject</name>
+        <members>DMD_Class3744_1</members>
+        <members>DMD_Class3744_1_Test</members>
+        <members>DMD_Class3744_1_Test2</members>
+        <name>ApexClass</name>
     </types>
     <version>43.0</version>
 </Package>
