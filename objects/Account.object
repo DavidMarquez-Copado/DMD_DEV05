@@ -190,16 +190,6 @@
         </valueSet>
     </fields>
     <fields>
-        <fullName>DMD_CustomField_1__c</fullName>
-        <externalId>false</externalId>
-        <label>DMD_CustomField_1</label>
-        <length>20</length>
-        <required>false</required>
-        <trackFeedHistory>false</trackFeedHistory>
-        <type>Text</type>
-        <unique>false</unique>
-    </fields>
-    <fields>
         <fullName>DMD_PicklistRetrieveOnly_2__c</fullName>
         <externalId>false</externalId>
         <label>DMD_PicklistRetrieveOnly_2</label>
