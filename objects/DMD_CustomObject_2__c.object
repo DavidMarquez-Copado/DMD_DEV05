@@ -54,16 +54,6 @@
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
     <fields>
-        <fullName>DMD_Field_1__c</fullName>
-        <externalId>false</externalId>
-        <label>DMD_Field_1</label>
-        <length>20</length>
-        <required>false</required>
-        <trackTrending>false</trackTrending>
-        <type>Text</type>
-        <unique>false</unique>
-    </fields>
-    <fields>
         <fullName>DMD_Field_2__c</fullName>
         <externalId>false</externalId>
         <label>DMD_Field_2</label>
