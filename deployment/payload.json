@@ -1,0 +1,9 @@
+{
+  "deploymentJobId" : "a0C1n00001NgxHpEAJ",
+  "promoteBranch" : "promotion/P01606-CDDeployUS0029556DMDUAT",
+  "targetBranch" : "uat",
+  "copadoJobId" : "434cd510-d410-40bc-a9e5-8c2a9e7e59fd",
+  "orgDestId" : "00D1t000000otLSEAY",
+  "testLevel" : "NoTestRun",
+  "checkOnly" : false
+}
