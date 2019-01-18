@@ -220,6 +220,16 @@
         <unique>false</unique>
     </fields>
     <fields>
+        <fullName>DMD_CustomField_7__c</fullName>
+        <externalId>false</externalId>
+        <label>DMD_CustomField_7</label>
+        <length>3</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>DMD_PicklistRetrieveOnly_2__c</fullName>
         <externalId>false</externalId>
         <label>DMD_PicklistRetrieveOnly_2</label>
