@@ -114,10 +114,6 @@
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
-        <apexClass>DMD_Class_OpportunityUtils</apexClass>
-        <enabled>false</enabled>
-    </classAccesses>
-    <classAccesses>
         <apexClass>DMD_Class_Six</apexClass>
         <enabled>false</enabled>
     </classAccesses>
