@@ -114,10 +114,6 @@
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
-        <apexClass>DMD_Class_Four</apexClass>
-        <enabled>false</enabled>
-    </classAccesses>
-    <classAccesses>
         <apexClass>DMD_Class_One</apexClass>
         <enabled>false</enabled>
     </classAccesses>
