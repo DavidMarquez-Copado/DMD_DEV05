@@ -114,10 +114,6 @@
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
-        <apexClass>DMD_Class_ContactUtils</apexClass>
-        <enabled>false</enabled>
-    </classAccesses>
-    <classAccesses>
         <apexClass>DMD_Class_Five</apexClass>
         <enabled>false</enabled>
     </classAccesses>
