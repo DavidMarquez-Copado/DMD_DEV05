@@ -102,10 +102,6 @@
         <visible>true</visible>
     </applicationVisibilities>
     <classAccesses>
-        <apexClass>AccountOperationsTest</apexClass>
-        <enabled>false</enabled>
-    </classAccesses>
-    <classAccesses>
         <apexClass>DMDTestClass</apexClass>
         <enabled>false</enabled>
     </classAccesses>
