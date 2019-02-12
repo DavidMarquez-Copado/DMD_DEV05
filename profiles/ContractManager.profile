@@ -4309,9 +4309,6 @@
         <layout>DMD_CustomObject_2__c-DMD CustomObject_2 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>DMD_CustomObject__c-DMD CustomObject Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
         <layout>DMD_New_field_v11__c-DMD_New field v11 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
