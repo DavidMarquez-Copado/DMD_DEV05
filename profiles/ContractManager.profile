@@ -114,10 +114,6 @@
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
-        <apexClass>DMD_Class_Two</apexClass>
-        <enabled>false</enabled>
-    </classAccesses>
-    <classAccesses>
         <apexClass>IATSPayment__AURASetup</apexClass>
         <enabled>true</enabled>
     </classAccesses>
