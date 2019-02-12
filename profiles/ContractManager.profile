@@ -1162,11 +1162,6 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Account.DMD_CustomField_5__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
         <field>Account.DMD_CustomField_6__c</field>
         <readable>true</readable>
     </fieldPermissions>
