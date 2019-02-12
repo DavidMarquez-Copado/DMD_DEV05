@@ -102,10 +102,6 @@
         <visible>true</visible>
     </applicationVisibilities>
     <classAccesses>
-        <apexClass>DMDTestClass</apexClass>
-        <enabled>false</enabled>
-    </classAccesses>
-    <classAccesses>
         <apexClass>DMD_Class1</apexClass>
         <enabled>false</enabled>
     </classAccesses>
