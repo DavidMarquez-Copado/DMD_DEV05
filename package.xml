@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>Asset</members>
-        <members>AssetRelationship</members>
-        <name>CustomObject</name>
+        <members>Account.CustomPickList__c</members>
+        <members>Account.CustomerPriority__c</members>
+        <members>Account.DMD_CustomField_2__c</members>
+        <members>Account.DMD_CustomField_3__c</members>
+        <members>Account.DMD_CustomField_4__c</members>
+        <name>CustomField</name>
     </types>
     <version>44.0</version>
 </Package>
