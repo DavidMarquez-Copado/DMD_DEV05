@@ -260,6 +260,16 @@
         <unique>false</unique>
     </fields>
     <fields>
+        <fullName>DMD_CustomField_7__c</fullName>
+        <externalId>false</externalId>
+        <label>DMD_CustomField_7</label>
+        <length>2</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>DandbCompanyId</fullName>
         <trackFeedHistory>false</trackFeedHistory>
         <type>Lookup</type>
@@ -511,6 +521,13 @@
         <searchResultsAdditionalFields>CORE.USERS.ALIAS</searchResultsAdditionalFields>
     </searchLayouts>
     <sharingModel>ReadWrite</sharingModel>
+    <validationRules>
+        <fullName>DMD_CustomField_7_startWith_H</fullName>
+        <active>true</active>
+        <description>to test</description>
+        <errorConditionFormula>BEGINS(DMD_CustomField_7__c, &quot;H&quot;)</errorConditionFormula>
+        <errorMessage>It can not start with &apos;H&apos; caracter</errorMessage>
+    </validationRules>
     <webLinks>
         <fullName>Billing</fullName>
         <availability>online</availability>
