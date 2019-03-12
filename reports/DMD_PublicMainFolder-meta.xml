@@ -2,7 +2,7 @@
 <ReportFolder xmlns="http://soap.sforce.com/2006/04/metadata">
     <folderShares>
         <accessLevel>Manage</accessLevel>
-        <sharedTo>dmarquez@copa.do-dmd.test</sharedTo>
+        <sharedTo>dmarquez@copa.do-dmd.uat</sharedTo>
         <sharedToType>User</sharedToType>
     </folderShares>
     <name>DMD_PublicMainFolder</name>
