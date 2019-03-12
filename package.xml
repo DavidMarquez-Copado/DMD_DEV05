@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>DMD_Lightning_App</members>
-        <name>AuraDefinitionBundle</name>
+        <members>DMD_Reports</members>
+        <members>DMD_SubFolder</members>
+        <members>DMD_SubFolder/DMD_AccountsReport_MSP</members>
+        <name>Report</name>
     </types>
     <version>44.0</version>
 </Package>
