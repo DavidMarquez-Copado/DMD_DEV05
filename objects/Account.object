@@ -143,7 +143,7 @@
         <fullName>DMD_CustomField_20__c</fullName>
         <externalId>false</externalId>
         <label>DMD_CustomField_20</label>
-        <length>2</length>
+        <length>66</length>
         <required>false</required>
         <trackFeedHistory>false</trackFeedHistory>
         <type>Text</type>
