@@ -1,0 +1,12 @@
+{
+  "namespace" : "",
+  "packageDirectories" : [ {
+    "path" : "force-app",
+    "default" : true
+  }, {
+    "path" : "DMD_DEV05_Artifact_1",
+    "default" : false
+  } ],
+  "sourceApiVersion" : "45.0",
+  "sfdcLoginUrl" : "https://login.salesforce.com"
+}
