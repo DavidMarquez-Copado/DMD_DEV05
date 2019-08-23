@@ -300,6 +300,17 @@
         </valueSet>
     </fields>
     <fields>
+        <fullName>DMD_MyTextField_2__c</fullName>
+        <description>TO BE COMMITTED custom field</description>
+        <externalId>false</externalId>
+        <label>DMD_MyTextField_2</label>
+        <length>99</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>DandbCompanyId</fullName>
         <trackFeedHistory>false</trackFeedHistory>
         <type>Lookup</type>
