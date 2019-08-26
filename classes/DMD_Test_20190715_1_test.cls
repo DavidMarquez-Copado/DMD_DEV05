@@ -4,4 +4,9 @@ public class DMD_Test_20190715_1_test {
         DMD_Test_20190715_1 obj = new DMD_Test_20190715_1();
         obj.toBeTested();
     }
+    
+    @ isTest static void doTestToNotBeTested(){
+        DMD_Test_20190715_1 obj = new DMD_Test_20190715_1();
+        obj.toNotBeTested();
+    }
 }
