@@ -209,6 +209,11 @@
                     <default>false</default>
                     <label>Third value</label>
                 </value>
+                <value>
+                    <fullName>NEW VALUE ADDED 1</fullName>
+                    <default>false</default>
+                    <label>NEW VALUE ADDED 1</label>
+                </value>
             </valueSetDefinition>
         </valueSet>
     </fields>
@@ -224,24 +229,13 @@
         <active>true</active>
         <label>FirstRecordType</label>
         <picklistValues>
-            <picklist>MyPicklist_2__c</picklist>
-            <values>
-                <fullName>First MyPicklist_2</fullName>
-                <default>false</default>
-            </values>
-            <values>
-                <fullName>Second MyPicklist_2</fullName>
-                <default>false</default>
-            </values>
-            <values>
-                <fullName>Third MyPicklist_2</fullName>
-                <default>false</default>
-            </values>
-        </picklistValues>
-        <picklistValues>
             <picklist>MyPicklist__c</picklist>
             <values>
                 <fullName>First value</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>NEW VALUE ADDED 1</fullName>
                 <default>false</default>
             </values>
             <values>
