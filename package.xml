@@ -5,12 +5,7 @@
         <name>CustomField</name>
     </types>
     <types>
-        <members>DMD_CustomObject_30__c</members>
-        <name>CustomObject</name>
-    </types>
-    <types>
         <members>DMD_CustomObject_30__c.FirstRecordType</members>
-        <members>DMD_CustomObject_30__c.SecondRecordType</members>
         <name>RecordType</name>
     </types>
     <version>46.0</version>
