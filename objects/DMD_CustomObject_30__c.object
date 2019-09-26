@@ -209,6 +209,11 @@
                     <default>false</default>
                     <label>Third value</label>
                 </value>
+                <value>
+                    <fullName>NEW VALUE ADDED 1</fullName>
+                    <default>false</default>
+                    <label>NEW VALUE ADDED 1</label>
+                </value>
             </valueSetDefinition>
         </valueSet>
     </fields>
@@ -242,6 +247,10 @@
             <picklist>MyPicklist__c</picklist>
             <values>
                 <fullName>First value</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>NEW VALUE ADDED 1</fullName>
                 <default>false</default>
             </values>
             <values>
