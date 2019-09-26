@@ -224,6 +224,21 @@
         <active>true</active>
         <label>FirstRecordType</label>
         <picklistValues>
+            <picklist>MyPicklist_2__c</picklist>
+            <values>
+                <fullName>First MyPicklist_2</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Second MyPicklist_2</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Third MyPicklist_2</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
             <picklist>MyPicklist__c</picklist>
             <values>
                 <fullName>First value</fullName>
@@ -243,6 +258,21 @@
         <fullName>SecondRecordType</fullName>
         <active>true</active>
         <label>SecondRecordType</label>
+        <picklistValues>
+            <picklist>MyPicklist_2__c</picklist>
+            <values>
+                <fullName>First MyPicklist_2</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Second MyPicklist_2</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Third MyPicklist_2</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
         <picklistValues>
             <picklist>MyPicklist__c</picklist>
             <values>
