@@ -1,17 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>DMD_CustomObject_30__c.MyPicklist__c</members>
+        <members>Lead.ItsGoneProcess</members>
+        <name>BusinessProcess</name>
+    </types>
+    <types>
+        <members>Lead.Status</members>
         <name>CustomField</name>
-    </types>
-    <types>
-        <members>DMD_CustomObject_30__c</members>
-        <name>CustomObject</name>
-    </types>
-    <types>
-        <members>DMD_CustomObject_30__c.FirstRecordType</members>
-        <members>DMD_CustomObject_30__c.SecondRecordType</members>
-        <name>RecordType</name>
     </types>
     <version>46.0</version>
 </Package>
