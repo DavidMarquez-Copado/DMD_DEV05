@@ -788,11 +788,6 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
-        <field>DMD_CustomObject_22__c.DMD_TextField__c</field>
-        <readable>false</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
         <field>DMD_CustomObject_23__c.MyTextField__c</field>
         <readable>false</readable>
     </fieldPermissions>
