@@ -38,11 +38,6 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
-        <field>Account.DMD_CustomField_7__c</field>
-        <readable>false</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
         <field>Account.DMD_MyTextField_1__c</field>
         <readable>false</readable>
     </fieldPermissions>
