@@ -4,6 +4,6 @@
     <protected>false</protected>
     <values>
         <field>MyTextField__c</field>
-        <value xsi:type="xsd:string">This is my first record on a custom metadata type</value>
+        <value xsi:type="xsd:string">CHANGED</value>
     </values>
 </CustomMetadata>
