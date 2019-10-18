@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>DMD_CustomMetadataType__mdt.MyTextField__c</members>
-        <name>CustomField</name>
-    </types>
-    <types>
-        <members>DMD_CustomMetadataType.DMD_MyFirstRecord</members>
-        <name>CustomMetadata</name>
-    </types>
-    <types>
-        <members>DMD_CustomMetadataType__mdt</members>
+        <members>Opportunity</members>
         <name>CustomObject</name>
+    </types>
+    <types>
+        <members>DMD_DXFormat</members>
+        <name>Profile</name>
     </types>
     <version>46.0</version>
 </Package>
