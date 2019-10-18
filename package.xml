@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>Contact.Email</members>
-        <members>Contact.Name</members>
-        <name>CustomField</name>
+        <members>Lead</members>
+        <name>CustomObject</name>
     </types>
     <types>
-        <members>Contact-es</members>
-        <name>CustomObjectTranslation</name>
+        <members>Lead.DMD_RecordType_1</members>
+        <name>RecordType</name>
     </types>
     <version>46.0</version>
 </Package>
