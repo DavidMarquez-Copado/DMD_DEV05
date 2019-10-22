@@ -410,6 +410,16 @@
         <unique>false</unique>
     </fields>
     <fields>
+        <fullName>DMD_MyTextField_0009826__c</fullName>
+        <externalId>false</externalId>
+        <label>DMD_MyTextField_0009826</label>
+        <length>25</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>DMD_PicklistRetrieveOnly_2__c</fullName>
         <externalId>false</externalId>
         <label>DMD_PicklistRetrieveOnly_2</label>
