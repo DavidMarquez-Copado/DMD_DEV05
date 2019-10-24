@@ -162,52 +162,6 @@
         <primaryTabColor>#0070D2</primaryTabColor>
         <pushNotifications>
             <fieldNames>Account</fieldNames>
-            <fieldNames>Asset</fieldNames>
-            <fieldNames>BusinessHours</fieldNames>
-            <fieldNames>CaseNumber</fieldNames>
-            <fieldNames>ClosedDate</fieldNames>
-            <fieldNames>Contact</fieldNames>
-            <fieldNames>ContactEmail</fieldNames>
-            <fieldNames>ContactFax</fieldNames>
-            <fieldNames>ContactMobile</fieldNames>
-            <fieldNames>ContactPhone</fieldNames>
-            <fieldNames>CreatedBy</fieldNames>
-            <fieldNames>CreatedDate</fieldNames>
-            <fieldNames>EngineeringReqNumber__c</fieldNames>
-            <fieldNames>Entitlement</fieldNames>
-            <fieldNames>Id</fieldNames>
-            <fieldNames>IsClosed</fieldNames>
-            <fieldNames>IsClosedOnCreate</fieldNames>
-            <fieldNames>IsDeleted</fieldNames>
-            <fieldNames>IsEscalated</fieldNames>
-            <fieldNames>IsStopped</fieldNames>
-            <fieldNames>LastModifiedBy</fieldNames>
-            <fieldNames>LastModifiedDate</fieldNames>
-            <fieldNames>LastReferencedDate</fieldNames>
-            <fieldNames>LastViewedDate</fieldNames>
-            <fieldNames>MasterRecord</fieldNames>
-            <fieldNames>Origin</fieldNames>
-            <fieldNames>Owner</fieldNames>
-            <fieldNames>Parent</fieldNames>
-            <fieldNames>PotentialLiability__c</fieldNames>
-            <fieldNames>Priority</fieldNames>
-            <fieldNames>Product</fieldNames>
-            <fieldNames>Product__c</fieldNames>
-            <fieldNames>Reason</fieldNames>
-            <fieldNames>RecordVisibility</fieldNames>
-            <fieldNames>SLAViolation__c</fieldNames>
-            <fieldNames>SlaExitDate</fieldNames>
-            <fieldNames>SlaStartDate</fieldNames>
-            <fieldNames>Status</fieldNames>
-            <fieldNames>StopStartDate</fieldNames>
-            <fieldNames>Subject</fieldNames>
-            <fieldNames>SuppliedCompany</fieldNames>
-            <fieldNames>SuppliedEmail</fieldNames>
-            <fieldNames>SuppliedName</fieldNames>
-            <fieldNames>SuppliedPhone</fieldNames>
-            <fieldNames>SystemModstamp</fieldNames>
-            <fieldNames>Type</fieldNames>
-            <fieldNames>UserRecordAccess</fieldNames>
             <objectName>Case</objectName>
         </pushNotifications>
     </consoleConfig>
