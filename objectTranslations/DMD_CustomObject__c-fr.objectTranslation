@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value><!-- DMD Objeto de David --></value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value><!-- DMD Objeto de David --></value>
+    </caseValues>
+    <fields>
+        <label><!-- DMD_MyTimeAndDate --></label>
+        <name>DMD_MyTimeAndDate__c</name>
+    </fields>
+    <fields>
+        <label><!-- DMD_external --></label>
+        <name>DMD_external__c</name>
+    </fields>
+    <fields>
+        <label><!-- Field First --></label>
+        <name>Field_First__c</name>
+    </fields>
+    <gender><!-- Masculine --></gender>
+    <nameFieldLabel><!-- DMD_CustomObject Name --></nameFieldLabel>
+    <sharingReasons>
+        <label><!-- DMD_SharingReason --></label>
+        <name>DMD_SharingReason</name>
+    </sharingReasons>
+    <startsWith><!-- Consonant --></startsWith>
+    <validationRules>
+        <errorMessage><!-- Expected value is &quot;Testing&quot; --></errorMessage>
+        <name>DMD_Field_First_VR</name>
+    </validationRules>
+    <webLinks>
+        <label>DMD_Bottoni</label>
+        <name>DMD_Test_URL_BUTTON</name>
+    </webLinks>
+</CustomObjectTranslation>

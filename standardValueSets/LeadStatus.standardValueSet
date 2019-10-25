@@ -25,4 +25,10 @@
         <label>Closed - Not Converted</label>
         <converted>false</converted>
     </standardValue>
+    <standardValue>
+        <fullName>ItsGone</fullName>
+        <default>false</default>
+        <label>ItsGone</label>
+        <converted>false</converted>
+    </standardValue>
 </StandardValueSet>
