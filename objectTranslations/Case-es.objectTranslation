@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Case description MODIFIED</value>
+        </caseValues>
+        <gender>Feminine</gender>
+        <name>case_description</name>
+    </fields>
+</CustomObjectTranslation>
