@@ -11,9 +11,25 @@
     <fields>
         <caseValues>
             <plural>false</plural>
+            <value>Fax MODIFIED</value>
+        </caseValues>
+        <gender>Masculine</gender>
+        <name>fax_contact</name>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
             <value>Nombre MODIFIED Name</value>
         </caseValues>
         <gender>Masculine</gender>
         <name>first_name_contact</name>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Teléfono MODIFIED</value>
+        </caseValues>
+        <gender>Masculine</gender>
+        <name>phone_contact</name>
     </fields>
 </CustomObjectTranslation>
