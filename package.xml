@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>DMD_App</members>
-        <name>CustomApplication</name>
+        <members>Contact.Fax</members>
+        <members>Contact.Phone</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>Contact-es</members>
+        <name>CustomObjectTranslation</name>
     </types>
     <version>46.0</version>
 </Package>
