@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>DMD_CustomObject_30</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>DMD_CustomObject_30s</value>
+    </caseValues>
+    <fields>
+        <label><!-- MyPicklist_2 --></label>
+        <name>MyPicklist_2__c</name>
+        <picklistValues>
+            <masterLabel>First MyPicklist_2</masterLabel>
+            <translation><!-- First MyPicklist_2 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Second MyPicklist_2</masterLabel>
+            <translation><!-- Second MyPicklist_2 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Third MyPicklist_2</masterLabel>
+            <translation><!-- Third MyPicklist_2 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- MyPicklist --></label>
+        <name>MyPicklist__c</name>
+        <picklistValues>
+            <masterLabel>First value</masterLabel>
+            <translation><!-- First value --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>NEW VALUE ADDED 1</masterLabel>
+            <translation><!-- NEW VALUE ADDED 1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Second value</masterLabel>
+            <translation><!-- Second value --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Third value</masterLabel>
+            <translation><!-- Third value --></translation>
+        </picklistValues>
+    </fields>
+    <gender>Feminine</gender>
+    <recordTypes>
+        <label><!-- FirstRecordType --></label>
+        <name>FirstRecordType</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- SecondRecordType --></label>
+        <name>SecondRecordType</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- ThirdRecordType --></label>
+        <name>ThirdRecordType</name>
+    </recordTypes>
+</CustomObjectTranslation>

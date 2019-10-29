@@ -209,6 +209,11 @@
                     <default>false</default>
                     <label>Third value</label>
                 </value>
+                <value>
+                    <fullName>NEW VALUE ADDED 1</fullName>
+                    <default>false</default>
+                    <label>NEW VALUE ADDED 1</label>
+                </value>
             </valueSetDefinition>
         </valueSet>
     </fields>
@@ -242,6 +247,10 @@
             <picklist>MyPicklist__c</picklist>
             <values>
                 <fullName>First value</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>NEW VALUE ADDED 1</fullName>
                 <default>false</default>
             </values>
             <values>
@@ -289,7 +298,46 @@
             </values>
         </picklistValues>
     </recordTypes>
-    <searchLayouts />
+    <recordTypes>
+        <fullName>ThirdRecordType</fullName>
+        <active>true</active>
+        <label>ThirdRecordType</label>
+        <picklistValues>
+            <picklist>MyPicklist_2__c</picklist>
+            <values>
+                <fullName>First MyPicklist_2</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Second MyPicklist_2</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Third MyPicklist_2</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>MyPicklist__c</picklist>
+            <values>
+                <fullName>First value</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>NEW VALUE ADDED 1</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Second value</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Third value</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+    </recordTypes>
+    <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
 </CustomObject>
