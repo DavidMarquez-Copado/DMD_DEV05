@@ -4704,10 +4704,6 @@
         <recordType>DMD_0007549__c.SecondRecordType</recordType>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>DMD_0007549__c-DMD_0007549 Layout</layout>
-        <recordType>DMD_0007549__c.ThirdRecordType</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
         <layout>DMD_CustomMetadataType__mdt-DMD_CustomMetadataType Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
