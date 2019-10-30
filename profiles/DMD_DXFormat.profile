@@ -4733,10 +4733,6 @@
         <recordType>DMD_CustomObject_30__c.SecondRecordType</recordType>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>DMD_CustomObject_30__c-DMD_CustomObject_30 Layout</layout>
-        <recordType>DMD_CustomObject_30__c.ThirdRecordType</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
         <layout>DMD_New_field_v11__c-DMD_New field v11 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
