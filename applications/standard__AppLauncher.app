@@ -5,4 +5,7 @@
     <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
     <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
     <tabs>standard-AppLauncher</tabs>
+    <tabs>Quote_Template__c</tabs>
+    <tabs>Template_Content__c</tabs>
+    <tabs>TemplateSection__c</tabs>
 </CustomApplication>

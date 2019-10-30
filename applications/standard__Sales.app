@@ -17,4 +17,7 @@
     <tabs>standard-Product2</tabs>
     <tabs>standard-report</tabs>
     <tabs>standard-Dashboard</tabs>
+    <tabs>Quote_Template__c</tabs>
+    <tabs>Template_Content__c</tabs>
+    <tabs>TemplateSection__c</tabs>
 </CustomApplication>

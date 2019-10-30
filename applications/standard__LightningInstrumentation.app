@@ -6,5 +6,8 @@
     <label>LightningInstrumentation</label>
     <navType>Standard</navType>
     <tabs>standard-LightningInstrumentation</tabs>
+    <tabs>Quote_Template__c</tabs>
+    <tabs>Template_Content__c</tabs>
+    <tabs>TemplateSection__c</tabs>
     <uiType>Lightning</uiType>
 </CustomApplication>

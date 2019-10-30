@@ -179,7 +179,19 @@
     <tabs>standard-Case</tabs>
     <tabs>standard-Opportunity</tabs>
     <tabs>standard-Lead</tabs>
+    <tabs>Quote_Template__c</tabs>
+    <tabs>Template_Content__c</tabs>
+    <tabs>TemplateSection__c</tabs>
     <workspaceConfig>
+        <mappings>
+            <tab>Quote_Template__c</tab>
+        </mappings>
+        <mappings>
+            <tab>TemplateSection__c</tab>
+        </mappings>
+        <mappings>
+            <tab>Template_Content__c</tab>
+        </mappings>
         <mappings>
             <tab>standard-Account</tab>
         </mappings>

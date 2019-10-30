@@ -8,4 +8,7 @@
     <tabs>standard-Workspace</tabs>
     <tabs>standard-ContentSearch</tabs>
     <tabs>standard-ContentSubscriptions</tabs>
+    <tabs>Quote_Template__c</tabs>
+    <tabs>Template_Content__c</tabs>
+    <tabs>TemplateSection__c</tabs>
 </CustomApplication>
