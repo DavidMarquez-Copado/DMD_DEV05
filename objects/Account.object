@@ -368,6 +368,16 @@
                     <default>false</default>
                     <label>789</label>
                 </value>
+                <value>
+                    <fullName>999999</fullName>
+                    <default>false</default>
+                    <label>999999</label>
+                </value>
+                <value>
+                    <fullName>888888</fullName>
+                    <default>false</default>
+                    <label>888888</label>
+                </value>
             </valueSetDefinition>
         </valueSet>
     </fields>
