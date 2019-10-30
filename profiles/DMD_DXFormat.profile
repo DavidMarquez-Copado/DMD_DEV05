@@ -7898,10 +7898,6 @@
     </userPermissions>
     <userPermissions>
         <enabled>false</enabled>
-        <name>Packaging2PromoteVersion</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>false</enabled>
         <name>PasswordNeverExpires</name>
     </userPermissions>
     <userPermissions>
