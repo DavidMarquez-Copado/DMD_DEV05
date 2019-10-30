@@ -342,6 +342,36 @@
         </valueSet>
     </fields>
     <fields>
+        <fullName>DMD_MySecondPicklist__c</fullName>
+        <externalId>false</externalId>
+        <label>DMD_MySecondPicklist</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>Picklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetDefinition>
+                <sorted>false</sorted>
+                <value>
+                    <fullName>123</fullName>
+                    <default>false</default>
+                    <label>123</label>
+                </value>
+                <value>
+                    <fullName>456</fullName>
+                    <default>false</default>
+                    <label>456</label>
+                </value>
+                <value>
+                    <fullName>789</fullName>
+                    <default>false</default>
+                    <label>789</label>
+                </value>
+            </valueSetDefinition>
+        </valueSet>
+    </fields>
+    <fields>
         <fullName>DMD_Test_Picklist_1__c</fullName>
         <externalId>false</externalId>
         <label>DMD_Test_Picklist_1</label>

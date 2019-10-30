@@ -820,6 +820,21 @@
         <active>true</active>
         <label>DMD_MyRecordType</label>
         <picklistValues>
+            <picklist>DMD_MySecondPicklist__c</picklist>
+            <values>
+                <fullName>123</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>456</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>789</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
             <picklist>AccountSource</picklist>
             <values>
                 <fullName>Other</fullName>
