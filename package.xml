@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>Lead.DMD_MyFirstPicklist__c</members>
-        <members>Lead.DMD_MySecondPicklist__c</members>
-        <name>CustomField</name>
+        <members>DMD_MyFirstApexClass</members>
+        <members>DMD_MyFirstApexClass_Test</members>
+        <name>ApexClass</name>
     </types>
     <types>
-        <members>Lead.DMD_MyFirstRecordType</members>
-        <name>RecordType</name>
+        <members>DMD_MyFirstProfile</members>
+        <name>Profile</name>
     </types>
     <version>46.0</version>
 </Package>
