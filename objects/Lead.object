@@ -657,25 +657,6 @@
             </values>
         </picklistValues>
         <picklistValues>
-            <picklist>DMD_MySecondPicklist__c</picklist>
-            <values>
-                <fullName>a</fullName>
-                <default>false</default>
-            </values>
-            <values>
-                <fullName>b</fullName>
-                <default>false</default>
-            </values>
-            <values>
-                <fullName>c</fullName>
-                <default>false</default>
-            </values>
-            <values>
-                <fullName>d</fullName>
-                <default>false</default>
-            </values>
-        </picklistValues>
-        <picklistValues>
             <picklist>Name</picklist>
             <values>
                 <fullName>Dr%2E</fullName>
