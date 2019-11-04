@@ -383,6 +383,17 @@
         <unique>false</unique>
     </fields>
     <fields>
+        <fullName>DMD_CustomField_34__c</fullName>
+        <description>To test US-0004214</description>
+        <externalId>false</externalId>
+        <label>DMD_CustomField_34</label>
+        <length>25</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>DMD_CustomField_3__c</fullName>
         <externalId>false</externalId>
         <label>DMD_CustomField_3</label>

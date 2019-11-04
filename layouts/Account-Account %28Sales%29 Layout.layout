@@ -123,6 +123,10 @@
                 <behavior>Edit</behavior>
                 <field>DMD_MyTextField_0009826_1__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>DMD_CustomField_34__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>

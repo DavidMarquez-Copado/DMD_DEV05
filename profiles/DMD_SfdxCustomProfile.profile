@@ -219,6 +219,14 @@
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
+        <apexClass>DMD_MyFirstApexClass</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>DMD_MyFirstApexClass_Test</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
         <apexClass>DMD_Test_20190715_1</apexClass>
         <enabled>false</enabled>
     </classAccesses>
@@ -1228,6 +1236,11 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>Account.DMD_CustomField_33__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Account.DMD_CustomField_34__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -3421,6 +3434,16 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
+        <editable>true</editable>
+        <field>Lead.DMD_MyFirstPicklist__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Lead.DMD_MySecondPicklist__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
         <editable>false</editable>
         <field>Lead.DandbCompanyId</field>
         <readable>true</readable>
@@ -5190,6 +5213,9 @@
         <layout>DMD_Test_MetadataMover__c-DMD_Test_MetadataMover Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>DMD_VIRUS__c-DMD_VIRUS Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>DandBCompany-D%26B Company Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -5227,6 +5253,10 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>Lead-Lead Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Lead-Lead Layout</layout>
+        <recordType>Lead.DMD_MyFirstRecordType</recordType>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Lead-Lead Layout</layout>
@@ -5877,6 +5907,11 @@
         <default>false</default>
         <recordType>Idea.InternalIdeasIdeaRecordType</recordType>
         <visible>false</visible>
+    </recordTypeVisibilities>
+    <recordTypeVisibilities>
+        <default>false</default>
+        <recordType>Lead.DMD_MyFirstRecordType</recordType>
+        <visible>true</visible>
     </recordTypeVisibilities>
     <recordTypeVisibilities>
         <default>true</default>

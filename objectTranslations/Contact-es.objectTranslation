@@ -3,18 +3,18 @@
     <fields>
         <caseValues>
             <plural>false</plural>
-            <value>Correo electrónico MODIFIED email</value>
+            <value>Fax MODIFIED</value>
         </caseValues>
         <gender>Masculine</gender>
-        <name>email_contact</name>
+        <name>fax_contact</name>
     </fields>
     <fields>
         <caseValues>
             <plural>false</plural>
-            <value>Nombre MODIFIED Name</value>
+            <value>Teléfono MODIFIED</value>
         </caseValues>
         <gender>Masculine</gender>
-        <name>first_name_contact</name>
+        <name>phone_contact</name>
     </fields>
     <fields>
         <label><!-- Languages --></label>
