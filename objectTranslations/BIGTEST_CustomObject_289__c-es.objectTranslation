@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>BIGTEST_CustomObject_289</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>BIGTEST_CustomObject_289</value>
+    </caseValues>
+    <fields>
+        <label><!-- BIGTEST_CustomField_0 --></label>
+        <name>BIGTEST_CustomField_0__c</name>
+    </fields>
+    <fields>
+        <label><!-- BIGTEST_CustomField_10 --></label>
+        <name>BIGTEST_CustomField_10__c</name>
+    </fields>
+    <fields>
+        <label><!-- BIGTEST_CustomField_11 --></label>
+        <name>BIGTEST_CustomField_11__c</name>
+    </fields>
+    <fields>
+        <label><!-- BIGTEST_CustomField_12 --></label>
+        <name>BIGTEST_CustomField_12__c</name>
+    </fields>
+    <fields>
+        <label><!-- BIGTEST_CustomField_13 --></label>
+        <name>BIGTEST_CustomField_13__c</name>
+    </fields>
+    <fields>
+        <label><!-- BIGTEST_CustomField_14 --></label>
+        <name>BIGTEST_CustomField_14__c</name>
+    </fields>
+    <fields>
+        <label><!-- BIGTEST_CustomField_15 --></label>
+        <name>BIGTEST_CustomField_15__c</name>
+    </fields>
+    <fields>
+        <label><!-- BIGTEST_CustomField_16 --></label>
+        <name>BIGTEST_CustomField_16__c</name>
+    </fields>
+    <fields>
+        <label><!-- BIGTEST_CustomField_17 --></label>
+        <name>BIGTEST_CustomField_17__c</name>
+    </fields>
+    <fields>
+        <label><!-- BIGTEST_CustomField_18 --></label>
+        <name>BIGTEST_CustomField_18__c</name>
+    </fields>
+    <fields>
+        <label><!-- BIGTEST_CustomField_19 --></label>
+        <name>BIGTEST_CustomField_19__c</name>
+    </fields>
+    <fields>
+        <label><!-- BIGTEST_CustomField_1 --></label>
+        <name>BIGTEST_CustomField_1__c</name>
+    </fields>
+    <fields>
+        <label><!-- BIGTEST_CustomField_20 --></label>
+        <name>BIGTEST_CustomField_20__c</name>
+    </fields>
+    <fields>
+        <label><!-- BIGTEST_CustomField_21 --></label>
+        <name>BIGTEST_CustomField_21__c</name>
+    </fields>
+    <fields>
+        <label><!-- BIGTEST_CustomField_22 --></label>
+        <name>BIGTEST_CustomField_22__c</name>
+    </fields>
+    <fields>
+        <label><!-- BIGTEST_CustomField_23 --></label>
+        <name>BIGTEST_CustomField_23__c</name>
+    </fields>
+    <fields>
+        <label><!-- BIGTEST_CustomField_24 --></label>
+        <name>BIGTEST_CustomField_24__c</name>
+    </fields>
+    <fields>
+        <label><!-- BIGTEST_CustomField_25 --></label>
+        <name>BIGTEST_CustomField_25__c</name>
+    </fields>
+    <fields>
+        <label><!-- BIGTEST_CustomField_26 --></label>
+        <name>BIGTEST_CustomField_26__c</name>
+    </fields>
+    <fields>
+        <label><!-- BIGTEST_CustomField_27 --></label>
+        <name>BIGTEST_CustomField_27__c</name>
+    </fields>
+    <fields>
+        <label><!-- BIGTEST_CustomField_28 --></label>
+        <name>BIGTEST_CustomField_28__c</name>
+    </fields>
+    <fields>
+        <label><!-- BIGTEST_CustomField_29 --></label>
+        <name>BIGTEST_CustomField_29__c</name>
+    </fields>
+    <fields>
+        <label><!-- BIGTEST_CustomField_2 --></label>
+        <name>BIGTEST_CustomField_2__c</name>
+    </fields>
+    <fields>
+        <label><!-- BIGTEST_CustomField_30 --></label>
+        <name>BIGTEST_CustomField_30__c</name>
+    </fields>
+    <fields>
+        <label><!-- BIGTEST_CustomField_31 --></label>
+        <name>BIGTEST_CustomField_31__c</name>
+    </fields>
+    <fields>
+        <label><!-- BIGTEST_CustomField_32 --></label>
+        <name>BIGTEST_CustomField_32__c</name>
+    </fields>
+    <fields>
+        <label><!-- BIGTEST_CustomField_33 --></label>
+        <name>BIGTEST_CustomField_33__c</name>
+    </fields>
+    <fields>
+        <label><!-- BIGTEST_CustomField_34 --></label>
+        <name>BIGTEST_CustomField_34__c</name>
+    </fields>
+    <fields>
+        <label><!-- BIGTEST_CustomField_3 --></label>
+        <name>BIGTEST_CustomField_3__c</name>
+    </fields>
+    <fields>
+        <label><!-- BIGTEST_CustomField_4 --></label>
+        <name>BIGTEST_CustomField_4__c</name>
+    </fields>
+    <fields>
+        <label><!-- BIGTEST_CustomField_5 --></label>
+        <name>BIGTEST_CustomField_5__c</name>
+    </fields>
+    <fields>
+        <label><!-- BIGTEST_CustomField_6 --></label>
+        <name>BIGTEST_CustomField_6__c</name>
+    </fields>
+    <fields>
+        <label><!-- BIGTEST_CustomField_7 --></label>
+        <name>BIGTEST_CustomField_7__c</name>
+    </fields>
+    <fields>
+        <label><!-- BIGTEST_CustomField_8 --></label>
+        <name>BIGTEST_CustomField_8__c</name>
+    </fields>
+    <fields>
+        <label><!-- BIGTEST_CustomField_9 --></label>
+        <name>BIGTEST_CustomField_9__c</name>
+    </fields>
+    <gender>Neuter</gender>
+</CustomObjectTranslation>

@@ -57,11 +57,11 @@
         <type>CustomApplication</type>
     </appMenuItems>
     <appMenuItems>
-        <name>standard__LightningBolt</name>
+        <name>standard__LightningInstrumentation</name>
         <type>CustomApplication</type>
     </appMenuItems>
     <appMenuItems>
-        <name>standard__LightningInstrumentation</name>
+        <name>standard__LightningBolt</name>
         <type>CustomApplication</type>
     </appMenuItems>
 </AppMenu>

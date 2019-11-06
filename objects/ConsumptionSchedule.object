@@ -178,12 +178,12 @@
     <listViews>
         <fullName>All_ConsumptionSchedules</fullName>
         <filterScope>Everything</filterScope>
-        <label>Todas las programaciones de consumo</label>
+        <label>All Consumption Schedules</label>
     </listViews>
     <listViews>
         <fullName>My_ConsumptionSchedules</fullName>
         <filterScope>Mine</filterScope>
-        <label>Mis programaciones de consumo</label>
+        <label>My Consumption Schedules</label>
     </listViews>
     <searchLayouts/>
     <sharingModel>Read</sharingModel>
