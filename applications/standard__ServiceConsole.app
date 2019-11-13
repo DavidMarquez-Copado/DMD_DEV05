@@ -158,6 +158,10 @@
             <location>full</location>
         </listPlacement>
         <listRefreshMethod>none</listRefreshMethod>
+        <pushNotifications>
+            <fieldNames>Account</fieldNames>
+            <objectName>Case</objectName>
+        </pushNotifications>
     </consoleConfig>
     <defaultLandingTab>standard-home</defaultLandingTab>
     <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
@@ -179,7 +183,11 @@
     <tabs>standard-Case</tabs>
     <tabs>standard-Opportunity</tabs>
     <tabs>standard-Lead</tabs>
+    <tabs>DMD_0007549__c</tabs>
     <workspaceConfig>
+        <mappings>
+            <tab>DMD_0007549__c</tab>
+        </mappings>
         <mappings>
             <tab>standard-Account</tab>
         </mappings>

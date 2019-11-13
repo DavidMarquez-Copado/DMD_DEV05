@@ -1,0 +1,1003 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Translations xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customLabels>
+        <label><!-- ACH/Direct Debit --></label>
+        <name>IATSPayment__ACHDirectDebit</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Account (IBAN) --></label>
+        <name>IATSPayment__AccountIBAN</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- iATS Merchant Account Name --></label>
+        <name>IATSPayment__AccountName</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Account Number --></label>
+        <name>IATSPayment__AccountNumber</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Account Type --></label>
+        <name>IATSPayment__AccountType</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Active --></label>
+        <name>IATSPayment__Active</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Add --></label>
+        <name>IATSPayment__Add</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Additional Settings --></label>
+        <name>IATSPayment__AdditionalSettings</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Additional Settings Help --></label>
+        <name>IATSPayment__AdditionalSettingsHelp</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Address --></label>
+        <name>IATSPayment__Address</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Advanced --></label>
+        <name>IATSPayment__Advanced</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Advanced Logic Help --></label>
+        <name>IATSPayment__AdvancedLogicHelp</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Amount In Correct Format --></label>
+        <name>IATSPayment__AmountInCorrectFormat</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Annually --></label>
+        <name>IATSPayment__Annually</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Approved Stage Help --></label>
+        <name>IATSPayment__ApprovedStageHelp</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- A response from IATS Payments servers was not received. Please contact IATS and --></label>
+        <name>IATSPayment__AresponsfomiatsPaymentsserversnotreceived</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Aura Event --></label>
+        <name>IATSPayment__AuraEvent</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Aura Field --></label>
+        <name>IATSPayment__AuraField</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Aura Field Mapping --></label>
+        <name>IATSPayment__AuraFieldMapping</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Aura Settings --></label>
+        <name>IATSPayment__AuraSettings</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Bank Number --></label>
+        <name>IATSPayment__BankNumber</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Basic --></label>
+        <name>IATSPayment__Basic</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Batch Download Transactions --></label>
+        <name>IATSPayment__BatchDownloadTransactions</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Batch Download Transactions Text --></label>
+        <name>IATSPayment__BatchDownloadTransactionsText</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Begin Date --></label>
+        <name>IATSPayment__BeginDate</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Cancel --></label>
+        <name>IATSPayment__Cancel</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Card Reader --></label>
+        <name>IATSPayment__CardReader</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Checking --></label>
+        <name>IATSPayment__Checking</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- City --></label>
+        <name>IATSPayment__City</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Clear CC Info --></label>
+        <name>IATSPayment__ClearCCInfo</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Close This Window --></label>
+        <name>IATSPayment__CloseThisWindow</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Company Name --></label>
+        <name>IATSPayment__CompanyName</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Configure Settings --></label>
+        <name>IATSPayment__ConfigureSettings</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Contact --></label>
+        <name>IATSPayment__Contact</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Contact Field --></label>
+        <name>IATSPayment__ContactField</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Contact Match Settings --></label>
+        <name>IATSPayment__ContactMatchSettings</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Contact Match Type --></label>
+        <name>IATSPayment__ContactMatchType</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Contact Match Type Help --></label>
+        <name>IATSPayment__ContactMatchTypeHelp</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Contact Match Type Warning --></label>
+        <name>IATSPayment__ContactMatchTypeWarning</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Continue --></label>
+        <name>IATSPayment__Continue</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Country --></label>
+        <name>IATSPayment__Country</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Create New Donation --></label>
+        <name>IATSPayment__CreateNewDonation</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Create Recurring Payments --></label>
+        <name>IATSPayment__CreateRecurringPayments</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Create Scheduled Payment Records --></label>
+        <name>IATSPayment__CreateScheduledPaymentRecords</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Create Scheduled Payment Records Help --></label>
+        <name>IATSPayment__CreateScheduledPaymentRecordsHelp</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Credit Card --></label>
+        <name>IATSPayment__CreditCard</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Credit Card Entry Mode --></label>
+        <name>IATSPayment__CreditCardEntryMode</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Credit Card Expiry Date: (mm/yy) --></label>
+        <name>IATSPayment__CreditCardExpiryDatemmyy</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Credit Card Number --></label>
+        <name>IATSPayment__CreditCardNumber</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Credit Card Type --></label>
+        <name>IATSPayment__CreditCardType</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Declined Stage --></label>
+        <name>IATSPayment__DeclinedStage</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Declined Stage Help --></label>
+        <name>IATSPayment__DeclinedStageHelp</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Default Credit Card Entry Mode --></label>
+        <name>IATSPayment__DefaultCreditCardEntryMode</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Default Credit Card Entry Mode Help --></label>
+        <name>IATSPayment__DefaultCreditCardEntryModeHelp</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Default Opportunity Contact Role --></label>
+        <name>IATSPayment__DefaultOpportunityContactRole</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Default Opportunity Contact Role Help --></label>
+        <name>IATSPayment__DefaultOpportunityContactRoleHelp</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Defined Logic is Too Complex --></label>
+        <name>IATSPayment__DefinedLogicisTooComplex</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Delete --></label>
+        <name>IATSPayment__Delete</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Direct Debit Registration was Rejected. Please re-validate information and re-at --></label>
+        <name>IATSPayment__DirectDebitRegistrationwasRejected</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Do Not Create Opportunity Records --></label>
+        <name>IATSPayment__DoNotCreateOpportunityRecords</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Do Not Create Opportunity Records Help --></label>
+        <name>IATSPayment__DoNotCreateOpportunityRecordsHelp</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Do Not Create Past Recurring Payments --></label>
+        <name>IATSPayment__DoNotCreatePastRecurringPayments</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Do Not Create Past Recurring Payments Help --></label>
+        <name>IATSPayment__DoNotCreatePastRecurringPaymentsHelp</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Do Not Populate VT Help --></label>
+        <name>IATSPayment__DoNotPopulateVTHelp</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Do Not Update If Blank --></label>
+        <name>IATSPayment__DoNotUpdateIfBlank</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Do Not automatically Populate Virtual Terminal with Amount Field Value --></label>
+        <name>IATSPayment__DoNotautomaticallyPopulateVirtualTerminalwithAmountFieldValue</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Edit --></label>
+        <name>IATSPayment__Edit</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Edit All Saved Payment Information --></label>
+        <name>IATSPayment__EditAllSavedPaymentInformation</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Email --></label>
+        <name>IATSPayment__Email</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- End Date --></label>
+        <name>IATSPayment__EndDate</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- End Date Later Than Start Date --></label>
+        <name>IATSPayment__EndDateLaterThanStartDate</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- End date must be at least one week after begin date --></label>
+        <name>IATSPayment__End_date_must_be_at_least_one_week_after_begin_date</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- End date must be at least one month after begin date --></label>
+        <name>IATSPayment__Enddatemustbeatleastonemonthafterbegindate</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- End date must be at least one year after begin date --></label>
+        <name>IATSPayment__Enddatemustbeatleastoneyearafterbegindate</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- End date must be at least 3 months after begin date --></label>
+        <name>IATSPayment__Enddatemustbeatleastthreemonthafterbegindate</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Fax --></label>
+        <name>IATSPayment__Fax</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- First Name --></label>
+        <name>IATSPayment__FirstName</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Household --></label>
+        <name>IATSPayment__Household</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- IATS Message --></label>
+        <name>IATSPayment__IATSMessage</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- IATS Recurring Payments Date Change Action --></label>
+        <name>IATSPayment__IATSRecurringPaymentsDateChangeAction</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Individual --></label>
+        <name>IATSPayment__Individual</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Invalid account number --></label>
+        <name>IATSPayment__Invalidaccountnumber</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Invalid routing number --></label>
+        <name>IATSPayment__Invalidroutingnumber</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Invalid sort code --></label>
+        <name>IATSPayment__Invalidsortcode</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Invalid transit number --></label>
+        <name>IATSPayment__Invalidtransitnumber</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Invoice Number --></label>
+        <name>IATSPayment__InvoiceNumber</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Last Name --></label>
+        <name>IATSPayment__LastName</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Limit --></label>
+        <name>IATSPayment__Limit</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Limit Help --></label>
+        <name>IATSPayment__LimitHelp</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Mandate Signing Date --></label>
+        <name>IATSPayment__MandateSigningDate</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Mandate Signing date must be today or greater --></label>
+        <name>IATSPayment__MandateSigningdatemustbetodayorgreater</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Manual --></label>
+        <name>IATSPayment__Manual</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Map Field --></label>
+        <name>IATSPayment__MapField</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Maximum Time Period --></label>
+        <name>IATSPayment__MaximumTimePeriod</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Mobile --></label>
+        <name>IATSPayment__Mobile</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Monthly --></label>
+        <name>IATSPayment__Monthly</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Nightly Batch Download Notification --></label>
+        <name>IATSPayment__NightlyBatchDownloadNotification</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Nightly Batch Download Notification Help --></label>
+        <name>IATSPayment__NightlyBatchDownloadNotificationHelp</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- No Applicable iATS Accounts --></label>
+        <name>IATSPayment__NoApplicableiATSAccounts</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- - - None- -  --></label>
+        <name>IATSPayment__None</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Nonprofit Starter Pack Data Model --></label>
+        <name>IATSPayment__NonprofitStarterPackDataModel</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Nonprofit Starter Pack Data Model Help --></label>
+        <name>IATSPayment__NonprofitStarterPackDataModelHelp</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Nonprofit Starter Pack Settings --></label>
+        <name>IATSPayment__NonprofitStarterPackSettings</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Not Equal to --></label>
+        <name>IATSPayment__NotEqualto</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Notification Email --></label>
+        <name>IATSPayment__NotificationEmail</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Notification Email Help --></label>
+        <name>IATSPayment__NotificationEmailHelp</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Number of Payment Records Limit --></label>
+        <name>IATSPayment__NumberofPaymentRecordsLimit</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Object --></label>
+        <name>IATSPayment__Object</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Off --></label>
+        <name>IATSPayment__Off</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- One-Time Payment --></label>
+        <name>IATSPayment__OneTimePayment</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- One-to-One --></label>
+        <name>IATSPayment__OnetoOne</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Open Ended Status --></label>
+        <name>IATSPayment__OpenEndedStatus</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Open Ended Status Help --></label>
+        <name>IATSPayment__OpenEndedStatusHelp</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Opportunity --></label>
+        <name>IATSPayment__Opportunity</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Opportunity Creation --></label>
+        <name>IATSPayment__OpportunityCreation</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Opportunity Creation and Delete --></label>
+        <name>IATSPayment__OpportunityCreationandDelete</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Opportunity Creation and set to Closed Lost --></label>
+        <name>IATSPayment__OpportunityCreationandsettoClosedLost</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Opportunity (Donation) and Payments --></label>
+        <name>IATSPayment__OpportunityDonationandPayments</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Opportunity (Donation) Settings --></label>
+        <name>IATSPayment__OpportunitySettings</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Payer Information --></label>
+        <name>IATSPayment__PayerInformation</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Payment Creation --></label>
+        <name>IATSPayment__PaymentCreation</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Payment Creation and Delete --></label>
+        <name>IATSPayment__PaymentCreationandDelete</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Payment Creation and Writeoff --></label>
+        <name>IATSPayment__PaymentCreationandWriteoff</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Payment Method --></label>
+        <name>IATSPayment__PaymentMethod</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Payment information could not be saved! Please contact Customer Care at 1-888-95 --></label>
+        <name>IATSPayment__PaymentinformationcouldnotbesavedPleasecontactCustomer</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Payment information could not be updated! Please check IATS Account information. --></label>
+        <name>IATSPayment__PaymentinformationcouldnotbeupdatedPleasecheck</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Payment information was successfully saved! --></label>
+        <name>IATSPayment__Paymentinformationwassuccessfullysaved</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Payment information was successfully updated! --></label>
+        <name>IATSPayment__Paymentinformationwassuccessfullyupdated</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Pending Stage Help --></label>
+        <name>IATSPayment__PendingStageHelp</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Phone --></label>
+        <name>IATSPayment__Phone</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Please Enter A --></label>
+        <name>IATSPayment__PleaseEnterA</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Please Enter An --></label>
+        <name>IATSPayment__PleaseEnterAn</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Please Enter Begin Date --></label>
+        <name>IATSPayment__PleaseEnterBeginDate</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Please Enter End Date --></label>
+        <name>IATSPayment__PleaseEnterEndDate</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Please Enter Logic Row --></label>
+        <name>IATSPayment__PleaseEnterLogicRow</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Please Select.. --></label>
+        <name>IATSPayment__PleaseSelect</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Please Select An iATS Account --></label>
+        <name>IATSPayment__PleaseSelectAniATSAccount</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Please Select Matching Fields --></label>
+        <name>IATSPayment__PleaseSelectMatchingFields</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Please Select Payment Accepted Stage --></label>
+        <name>IATSPayment__PleaseSelectPaymentAcceptedStage</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Please Select a Payment / Donation Type: --></label>
+        <name>IATSPayment__PleaseSelectaPaymentDonationType</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Please enter a recurring payment amount in correct format --></label>
+        <name>IATSPayment__Pleaseenterrecurringpaymentamountincorrectformat</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Pre-populated Virtual Terminal Recurring Fields --></label>
+        <name>IATSPayment__PrepopulatedVirtualTerminalRecurringFields</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Pre-populated Virtual Terminal Recurring Fields Help --></label>
+        <name>IATSPayment__PrepopulatedVirtualTerminalRecurringFieldsHelp</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Process One-Time Payment --></label>
+        <name>IATSPayment__ProcessOneTimePayment</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Process Refund --></label>
+        <name>IATSPayment__ProcessRefund</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Quarterly --></label>
+        <name>IATSPayment__Quarterly</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Recurring Amount --></label>
+        <name>IATSPayment__RecurringAmount</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Recurring Donations --></label>
+        <name>IATSPayment__RecurringDonations</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Recurring Donations Settings --></label>
+        <name>IATSPayment__RecurringDonationsSettings</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Recurring Donations and Opportunities (Donations) --></label>
+        <name>IATSPayment__RecurringDonationsandOpportunitiesDonations</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Recurring Installment Amount --></label>
+        <name>IATSPayment__RecurringInstallmentAmount</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Recurring Payment Model Cannot Be Selected Brickwork Payments --></label>
+        <name>IATSPayment__RecurringPaymentModelCannotBeSelectedBrickworkPayments</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Recurring Payment Model Cannot Be Selected Brickwork Recurring --></label>
+        <name>IATSPayment__RecurringPaymentModelCannotBeSelectedBrickworkRecurring</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Recurring Payment Model Cannot Be Selected NPSP Recurring --></label>
+        <name>IATSPayment__RecurringPaymentModelCannotBeSelectedNPSPRecurring</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Recurring Payments --></label>
+        <name>IATSPayment__RecurringPayments</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Recurring Payments Amount Method --></label>
+        <name>IATSPayment__RecurringPaymentsAmountMethod</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Recurring Payments Amount Method Help --></label>
+        <name>IATSPayment__RecurringPaymentsAmountMethodHelp</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Recurring Payments Model --></label>
+        <name>IATSPayment__RecurringPaymentsModel</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Recurring payments could not be created! Please contact Customer Care at 1-888-9 --></label>
+        <name>IATSPayment__RecurringpaymentscouldnotbecreatedPleasecontactCustomer</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Recurring payments could not be updated! Please check IATS Account information. --></label>
+        <name>IATSPayment__RecurringpaymentscouldnotbeupdatedPleasecheck</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Recurring payments have been created! --></label>
+        <name>IATSPayment__Recurringpaymentshavebeencreated</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Refund Question --></label>
+        <name>IATSPayment__RefundQuestion</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Reject codes information available at: --></label>
+        <name>IATSPayment__Rejectcodesinformationavailableat</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Related Records --></label>
+        <name>IATSPayment__RelatedRecords</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Review Errors --></label>
+        <name>IATSPayment__ReviewErrors</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Routing Number --></label>
+        <name>IATSPayment__RoutingNumber</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Save Payment Information --></label>
+        <name>IATSPayment__SavePaymentInformation</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Save Payment Info Result --></label>
+        <name>IATSPayment__SavePaymentinfoResult</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Savings --></label>
+        <name>IATSPayment__Savings</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Schedule Type --></label>
+        <name>IATSPayment__ScheduleType</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Scheduled Payment Records Limit --></label>
+        <name>IATSPayment__ScheduledPaymentRecordsLimit</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Scheduled Payment Records Limit Help --></label>
+        <name>IATSPayment__ScheduledPaymentRecordsLimitHelp</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Select --></label>
+        <name>IATSPayment__Select</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Select Create new Donation by Default --></label>
+        <name>IATSPayment__SelectCreatenewDonationbyDefault</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Select Create new Donation by Default Help --></label>
+        <name>IATSPayment__SelectCreatenewDonationbyDefaultHelp</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Settings --></label>
+        <name>IATSPayment__Settings</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Some Filter Conditions Defined --></label>
+        <name>IATSPayment__SomeFilterConditionsDefined</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Sort Code --></label>
+        <name>IATSPayment__SortCode</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Stage Approved --></label>
+        <name>IATSPayment__StageApproved</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Stage if iATS Transaction is Pending --></label>
+        <name>IATSPayment__StageifiATSTransactionisPending</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Standard --></label>
+        <name>IATSPayment__Standard</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- State Province --></label>
+        <name>IATSPayment__StateProvince</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Status --></label>
+        <name>IATSPayment__Status</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Street Address --></label>
+        <name>IATSPayment__StreetAddress</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Submit --></label>
+        <name>IATSPayment__Submit</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- The &apos;Account (IBAN)&apos; field must have a value --></label>
+        <name>IATSPayment__TheAccountIBANfieldmustvalue</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Thebegindatecannotbe13 --></label>
+        <name>IATSPayment__Thebegindatecannotbe13</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- The begin date must be at least 12 days from today --></label>
+        <name>IATSPayment__Thebegindatemustbeatleast12daysfromtoday</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- The begin date must be greater than or equal to today --></label>
+        <name>IATSPayment__Thebegindatemustbegreaterthanorequaltotoday</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- The credit card has expired --></label>
+        <name>IATSPayment__Thecreditcardhasexpired</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- The end date must be greater than the begin date --></label>
+        <name>IATSPayment__Theenddatemustbegreaterthanthebegindate</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- These Fields Completed --></label>
+        <name>IATSPayment__TheseFieldsCompleted</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Time Period Limit --></label>
+        <name>IATSPayment__TimePeriodLimit</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Total Amount --></label>
+        <name>IATSPayment__TotalAmount</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Total Recurring Value Amount --></label>
+        <name>IATSPayment__TotalRecurringValueAmount</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Transaction could not be completed! Please check the iATS Account information --></label>
+        <name>IATSPayment__TransactionCouldnotbecompletedPleasecheck</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Transit Number --></label>
+        <name>IATSPayment__TransitNumber</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Translations Downloaded Shortly --></label>
+        <name>IATSPayment__TranslationsDownloadedShortly</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Unable to connect to IATS servers. Please contact your administrator. --></label>
+        <name>IATSPayment__UnableConnecttoIATSserversPleasecontact</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Update Recurring Payments --></label>
+        <name>IATSPayment__UpdateRecurringPayments</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Update Rejected Transaction Payment to Written Off --></label>
+        <name>IATSPayment__UpdateRejectedTransactionPaymenttoWrittenOff</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Update Rejected Transaction Payment to Written Off Help --></label>
+        <name>IATSPayment__UpdateRejectedTransactionPaymenttoWrittenOffHelp</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Update Stage if iATS Transaction is Approved --></label>
+        <name>IATSPayment__UpdateStageifiATSTransactionisApproved</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Update Stage if iATS Transaction is Approved Help --></label>
+        <name>IATSPayment__UpdateStageifiATSTransactionisApprovedHelp</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Update Stage if iATS Transaction is Pending --></label>
+        <name>IATSPayment__UpdateStageifiATSTransactionisPending</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Update Stage if iATS Transaction is Pending Help --></label>
+        <name>IATSPayment__UpdateStageifiATSTransactionisPendingHelp</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Update Stage if iATS Transaction is Rejected --></label>
+        <name>IATSPayment__UpdateStageifiATSTransactionisRejected</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Update Stage if iATS Transaction is Rejected Help --></label>
+        <name>IATSPayment__UpdateStageifiATSTransactionisRejectedHelp</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Update could not be completed because the iATS Account does not have Recurring P --></label>
+        <name>IATSPayment__UpdatecouldnotbecompletedbecauseiATSAccountdoesnothaveRecurringPermission</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Update the Settings --></label>
+        <name>IATSPayment__UpdatetheSettings</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Updating Fields.. --></label>
+        <name>IATSPayment__UpdatingFields</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Validate Account --></label>
+        <name>IATSPayment__ValidateAccount</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Virtual Terminal Settings --></label>
+        <name>IATSPayment__VirtualTerminalSettings</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Weekly --></label>
+        <name>IATSPayment__Weekly</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Zip/Postal Code --></label>
+        <name>IATSPayment__ZipPostalCode</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- amount greater than 0 --></label>
+        <name>IATSPayment__amountgreaterthan0</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- biAnnually --></label>
+        <name>IATSPayment__biAnnually</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- configure Settings Description --></label>
+        <name>IATSPayment__configureSettingsDescription</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- confirmation Text --></label>
+        <name>IATSPayment__confirmationText</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Contins --></label>
+        <name>IATSPayment__contains</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- credit card expiration date --></label>
+        <name>IATSPayment__creditcardexpirationdate</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Do Not Automatically Create Opportunity Records Error --></label>
+        <name>IATSPayment__doNotAutomaticallyCreateOpportunityRecordsError</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- emailAddress --></label>
+        <name>IATSPayment__emailAddress</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- equals --></label>
+        <name>IATSPayment__equals</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- iATS AURA Setup --></label>
+        <name>IATSPayment__iATSAURASetup</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- iATS Account Information --></label>
+        <name>IATSPayment__iATSAccountInformation</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- iATS Customer Code --></label>
+        <name>IATSPayment__iATSCustomerCode</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- iATS Recurring Payments Date Change Action Help --></label>
+        <name>IATSPayment__iATSRecurringPaymentsDateChangeActionHelp</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- iATS Transaction --></label>
+        <name>IATSPayment__iATSTransaction</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Schedule Date --></label>
+        <name>IATSPayment__scheduleDate</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- valid American Express card number --></label>
+        <name>IATSPayment__validAmericanExpresscardnumber</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- valid Discover card number --></label>
+        <name>IATSPayment__validDiscovercardnumber</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- valid Mastercard --></label>
+        <name>IATSPayment__validMastercard</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- valid VISA card number --></label>
+        <name>IATSPayment__validVISAcardnumber</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- valid credit card number --></label>
+        <name>IATSPayment__validcreditcardnumber</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- PS App Name --></label>
+        <name>rh2__PS_App_Name</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- PS Initialize Button --></label>
+        <name>rh2__PS_Initialize_Button</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- PS_SelectMaster_HelpURL --></label>
+        <name>rh2__PS_SelectMaster_HelpURL</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- PT Logo URL --></label>
+        <name>rh2__PT_Logo_URL</name>
+    </customLabels>
+    <quickActions>
+        <label><!-- LogACall --></label>
+        <name>LogACall</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewAccount --></label>
+        <name>NewAccount</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewCase --></label>
+        <name>NewCase</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewContact --></label>
+        <name>NewContact</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewEvent --></label>
+        <name>NewEvent</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewGroup --></label>
+        <name>NewGroup</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewLead --></label>
+        <name>NewLead</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewNote --></label>
+        <name>NewNote</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewOpportunity --></label>
+        <name>NewOpportunity</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewTask --></label>
+        <name>NewTask</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- SendEmail --></label>
+        <name>SendEmail</name>
+    </quickActions>
+</Translations>

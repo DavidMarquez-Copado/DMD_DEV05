@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>DMD_0007549</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>DMD_0007549s</value>
+    </caseValues>
+    <fields>
+        <label><!-- MyExternalId --></label>
+        <name>MyExternalId__c</name>
+    </fields>
+    <gender>Feminine</gender>
+    <recordTypes>
+        <label><!-- FirstRecordType --></label>
+        <name>FirstRecordType</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- SecondRecordType --></label>
+        <name>SecondRecordType</name>
+    </recordTypes>
+</CustomObjectTranslation>

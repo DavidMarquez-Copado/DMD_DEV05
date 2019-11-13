@@ -155,12 +155,17 @@
     <externalSharingModel>Private</externalSharingModel>
     <gender>Feminine</gender>
     <label>DMD_CustomTabObject</label>
+    <listViews>
+        <fullName>All</fullName>
+        <filterScope>Everything</filterScope>
+        <label>All</label>
+    </listViews>
     <nameField>
         <label>DMD_CustomTabObject Name</label>
         <type>Text</type>
     </nameField>
     <pluralLabel>DMD_CustomTabObject</pluralLabel>
-    <searchLayouts />
+    <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
 </CustomObject>

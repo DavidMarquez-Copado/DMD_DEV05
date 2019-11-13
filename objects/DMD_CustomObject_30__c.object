@@ -155,35 +155,6 @@
     <enableStreamingApi>true</enableStreamingApi>
     <externalSharingModel>Private</externalSharingModel>
     <fields>
-        <fullName>MyPicklist_2__c</fullName>
-        <externalId>false</externalId>
-        <label>MyPicklist_2</label>
-        <required>false</required>
-        <trackTrending>false</trackTrending>
-        <type>Picklist</type>
-        <valueSet>
-            <restricted>true</restricted>
-            <valueSetDefinition>
-                <sorted>false</sorted>
-                <value>
-                    <fullName>First MyPicklist_2</fullName>
-                    <default>false</default>
-                    <label>First MyPicklist_2</label>
-                </value>
-                <value>
-                    <fullName>Second MyPicklist_2</fullName>
-                    <default>false</default>
-                    <label>Second MyPicklist_2</label>
-                </value>
-                <value>
-                    <fullName>Third MyPicklist_2</fullName>
-                    <default>false</default>
-                    <label>Third MyPicklist_2</label>
-                </value>
-            </valueSetDefinition>
-        </valueSet>
-    </fields>
-    <fields>
         <fullName>MyPicklist__c</fullName>
         <externalId>false</externalId>
         <label>MyPicklist</label>
@@ -224,21 +195,6 @@
         <active>true</active>
         <label>FirstRecordType</label>
         <picklistValues>
-            <picklist>MyPicklist_2__c</picklist>
-            <values>
-                <fullName>First MyPicklist_2</fullName>
-                <default>false</default>
-            </values>
-            <values>
-                <fullName>Second MyPicklist_2</fullName>
-                <default>false</default>
-            </values>
-            <values>
-                <fullName>Third MyPicklist_2</fullName>
-                <default>false</default>
-            </values>
-        </picklistValues>
-        <picklistValues>
             <picklist>MyPicklist__c</picklist>
             <values>
                 <fullName>First value</fullName>
@@ -259,21 +215,6 @@
         <active>true</active>
         <label>SecondRecordType</label>
         <picklistValues>
-            <picklist>MyPicklist_2__c</picklist>
-            <values>
-                <fullName>First MyPicklist_2</fullName>
-                <default>false</default>
-            </values>
-            <values>
-                <fullName>Second MyPicklist_2</fullName>
-                <default>false</default>
-            </values>
-            <values>
-                <fullName>Third MyPicklist_2</fullName>
-                <default>false</default>
-            </values>
-        </picklistValues>
-        <picklistValues>
             <picklist>MyPicklist__c</picklist>
             <values>
                 <fullName>First value</fullName>
@@ -289,7 +230,7 @@
             </values>
         </picklistValues>
     </recordTypes>
-    <searchLayouts />
+    <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
 </CustomObject>
