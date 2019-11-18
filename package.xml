@@ -1,8 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>DMD_MyFirstPermissionSet</members>
-        <name>PermissionSet</name>
+        <members>Case.DMD_MySupportProcess</members>
+        <name>BusinessProcess</name>
+    </types>
+    <types>
+        <members>Case.DMD_A__c</members>
+        <members>Case.DMD_B__c</members>
+        <members>Case.DMD_C__c</members>
+        <members>Case.DMD_X__c</members>
+        <members>Case.DMD_Y__c</members>
+        <members>Case.DMD_Z__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>Case</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Case.DMD_Alfredo</members>
+        <name>RecordType</name>
     </types>
     <version>46.0</version>
 </Package>
